@@ -1,4 +1,5 @@
 # Coffe_shop-Sales-Dashboard
+<img width="1281" height="725" alt="Coffee sales" src="https://github.com/user-attachments/assets/ea2f48de-58e2-4d44-a143-35dde41cfb35" />
 
  # #☕ Coffee Sales Analysis Project 
  This project analyzes coffee sales data to uncover key performance indicators (KPIs), customer behavior, and trends over time. The goal is to provide actionable insights to improve business performance and increase sales. 
